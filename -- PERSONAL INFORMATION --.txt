@@ -1,0 +1,28 @@
+-- PERSONAL INFORMATION --
+Last Name
+Full Name
+Nationality
+Birthday
+Contact Number
+Email
+Mobile Number
+Civil Status
+    - Single
+    - Married
+    - Widowed
+    - Annulled
+Sex
+    - Male
+    - Femail
+
+-- COVID-19 SYMPTOMS --
+Aches and pain
+Cough
+Diarrhoea
+Fatigue
+Fever
+Headache
+Runny or stuffy nose
+Shortness of breath
+Sneezing
+Sore throat
