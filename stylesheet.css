@@ -27,9 +27,8 @@
 }
 
 body {
-    background-image: url("img/background-img.png");
-    background-repeat: no-repeat;
-    background-size: 300vh;
+    background-image: url("img/red-bg.jpg");
+    background-repeat:round 
 }
 
 label {
